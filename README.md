@@ -141,3 +141,8 @@ To start and run the local development server,
   ```
 
 4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
+
+## Successfully got accepted by Udacity reviewer
+
+Contribution activity ended on September 13th. There is scope for improvements
+
